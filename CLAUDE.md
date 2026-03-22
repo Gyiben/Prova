@@ -94,6 +94,4 @@ When a language/framework is chosen, update this file with:
 ---
 
 ## Contact & Links
-
-- Remote: `http://local_proxy@127.0.0.1:45191/git/Gyiben/Prova`
 - Issues and PRs should follow the branching conventions above.
